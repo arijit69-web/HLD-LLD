@@ -36,11 +36,11 @@
 
 19. [Leader Election for Auto Recovery](https://drive.google.com/file/d/1PvGqj4BMB8TyE-rGh17RHCJe8qqpucoB/view)
 
-20. https://drive.google.com/file/d/1EnJSlNneQWpFTfdFXSvoSYAcXgakXJJg/view
+20. [Client Server Model](https://drive.google.com/file/d/1EnJSlNneQWpFTfdFXSvoSYAcXgakXJJg/view)
 
-21. https://drive.google.com/file/d/1v6k7x5ebXbsZvPXO5AWIM3jrLxg1Zw3e/view
+21. [Blob Storage](https://drive.google.com/file/d/1v6k7x5ebXbsZvPXO5AWIM3jrLxg1Zw3e/view)
 
-22. https://drive.google.com/file/d/1pD5a-q4bTq6ST1sxqiAqLUqbJdCVqHbU/view
+22. [Bloom Filters](https://drive.google.com/file/d/1pD5a-q4bTq6ST1sxqiAqLUqbJdCVqHbU/view)
 
 23. https://drive.google.com/file/d/1msL9o1-a3ARfiPzY1u38LVbXWR7ptb35/view
 
