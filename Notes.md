@@ -50,7 +50,7 @@
 
 26. [Designing RateLimiter](https://drive.google.com/file/d/1smRs4eAYFicvSUaTH1Rg3SrDNCsOEecn/view)
 
-27. https://drive.google.com/file/d/1r23gZWNyg85h6GULibmwTWx6UkisOQW0/view
+27. [Notification Service](https://drive.google.com/file/d/1r23gZWNyg85h6GULibmwTWx6UkisOQW0/view)
 
 28. https://drive.google.com/file/d/1j8qUbpegfue229w3d8n7JYTufwVKW5cH/view
 
