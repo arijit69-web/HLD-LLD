@@ -16,3 +16,7 @@ Concrete means complete — fully implemented, not abstract.
 - Concrete classes cannot contain unimplemented (abstract) methods.
 
 - All classes that implement abstract methods or extend abstract classes must become concrete by providing all implementations.
+
+- Static binding → compile-time → no polymorphism.
+
+- Dynamic binding → runtime → polymorphism.
