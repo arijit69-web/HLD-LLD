@@ -1,1 +1,42 @@
 Videos
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Eclipse / IntelliJ / VS Code folders
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+bin/
+out/
+target/
+
+# Gradle files
+.gradle/
+build/
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
