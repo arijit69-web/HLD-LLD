@@ -1,2 +1,5 @@
-package Lec_2_SOLID.DIP.GoodCode;public interface NotificationChannel {
+package Lec_2_SOLID.DIP.GoodCode;
+
+public interface NotificationChannel {
+    void send(String msg);
 }

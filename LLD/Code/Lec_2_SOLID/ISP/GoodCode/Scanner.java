@@ -1,2 +1,6 @@
-package Lec_2_SOLID.ISP.GoodCode;public interface Scanner {
+package Lec_2_SOLID.ISP.GoodCode;
+
+public interface Scanner {
+    void scan(Document doc);
+
 }

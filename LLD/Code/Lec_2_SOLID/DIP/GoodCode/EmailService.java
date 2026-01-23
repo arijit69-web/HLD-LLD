@@ -1,2 +1,8 @@
-package Lec_2_SOLID.DIP.GoodCode;public class EmailService {
+package Lec_2_SOLID.DIP.GoodCode;
+
+public class EmailService implements NotificationChannel{
+    @Override
+    public void send(String msg) {
+        System.out.println("Sending Email " + msg);
+    }
 }

@@ -1,4 +1,4 @@
-package Lec_2_SOLID.ISP.BadCode;
+package Lec_2_SOLID.ISP.GoodCode;
 
 public class Document {
 }

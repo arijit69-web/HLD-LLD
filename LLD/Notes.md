@@ -50,6 +50,37 @@
 
 - Realization: A class implements the behavior defined by an interface.
 
-- LSP - Objects of a parent class should be replaceable with objects of its child class without breaking the program’s correctness.
 
+```
+S — Single Responsibility Principle (SRP)
 
+A class should have only one responsibility and therefore only one reason to change.
+This makes the code easier to understand, test, and maintain.
+
+O — Open/Closed Principle (OCP)
+
+Software entities should be open for extension but closed for modification.
+New functionality should be added using inheritance or interfaces, without changing existing code.
+
+L — Liskov Substitution Principle (LSP)
+
+Objects of a derived class should be substitutable for objects of the base class without altering program correctness.
+Subclasses must follow the behavioral contract of the parent class.
+
+I — Interface Segregation Principle (ISP)
+
+Clients should not be forced to depend on interfaces they do not use.
+Large interfaces should be broken into smaller, role-specific interfaces.
+
+D — Dependency Inversion Principle (DIP)
+
+High-level modules should depend on abstractions, not concrete implementations.
+Dependencies should be injected, promoting loose coupling and testability.
+```
+```
+SRP → One responsibility
+OCP → Extend safely
+LSP → Substitute without breaking
+ISP → Small interfaces
+DIP → Abstractions over concretes
+```
