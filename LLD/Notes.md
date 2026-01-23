@@ -50,3 +50,6 @@
 
 - Realization: A class implements the behavior defined by an interface.
 
+- LSP - Objects of a parent class should be replaceable with objects of its child class without breaking the program’s correctness.
+
+

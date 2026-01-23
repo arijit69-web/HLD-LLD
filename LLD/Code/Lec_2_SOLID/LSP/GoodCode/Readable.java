@@ -1,2 +1,5 @@
-package Lec_2_SOLID.LSP.GoodCode;public interface Readable {
+package Lec_2_SOLID.LSP.GoodCode;
+
+public interface Readable {
+    void read();
 }

@@ -1,2 +1,9 @@
-package Lec_2_SOLID.LSP.GoodCode;public class ReadableFile {
+package Lec_2_SOLID.LSP.GoodCode;
+
+public class ReadableFile implements Readable {
+
+    @Override
+    public void read() {
+        System.out.println("Reading from file...");
+    }
 }
