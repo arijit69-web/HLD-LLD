@@ -29,7 +29,7 @@
 - Dynamic binding → runtime → polymorphism.
 
 - Access Modifiers :: public → accessible everywhere | protected → class + package + subclass | default → class + package | private → only within the same class
-- 
+  
 - UML Diagram Representation
 
 ![Screenshot](./Images/pic1.png)
